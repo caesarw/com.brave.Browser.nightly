@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Copyright 2017 the Chromium authors, with modifications -->
+<component type="desktop-application">
+  <id>com.brave.Browser</id>
+  <launchable type="desktop-id">com.brave.Browser.desktop</launchable>
+  <name>Brave Browser Nightly</name>
+  <developer_name>Brave Software</developer_name>
+  <summary>The web browser from Brave</summary>
+  <metadata_license>CC0-1.0</metadata_license>
+  <project_license>MPL-2.0</project_license>
+  <url type="homepage">https://brave.com/</url>
+  <description>
+   <p>
+      Brave is on a mission to fix the web by giving users a safer, faster and better
+      browsing experience while growing support for content creators through a new
+      attention-based ecosystem of rewards.
+   </p>
+   <p>
+      Browse faster by blocking ads and trackers that violate your privacy and cost
+      you time and money.
+   </p>
+  </description>
+  <screenshots>
+    <screenshot type="default">
+      <image>https://raw.githubusercontent.com/flathub/com.brave.Browser/master/screenshot_mainpage.jpg</image>
+    </screenshot>
+    <screenshot>
+      <image>https://raw.githubusercontent.com/flathub/com.brave.Browser/master/screenshot_welcomescreen.jpg</image>
+    </screenshot>
+  </screenshots>
+  <releases>
+    <release version="1.69.102" date="2024-07-12"/>
+  </releases>
+  <content_rating type="oars-1.1"/>
+  <update_contact>https://support.brave.com/hc/en-us/requests/new</update_contact>
+</component>
